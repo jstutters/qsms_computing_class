@@ -1,4 +1,5 @@
-# qsms_computing_class
+# QSMSC Computing Class
+
 Teaching material for the QS MS Centre computing course.
 
 The course aims to cover:
@@ -16,6 +17,7 @@ The course aims to cover:
   * Looping
   * Supplying arguments
   * Parallelisation
+  * Grid Engine 
 * Python
   * Variables
   * Built-in types
