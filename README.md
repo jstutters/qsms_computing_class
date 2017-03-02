@@ -4,18 +4,22 @@ Teaching material for the QS MS Centre computing course.
 
 The course aims to cover:
 
-* Basic command line use
+* Basic command line use (1 session - 15/03/2017)
   * Navigating the filesystem
   * Opening files
   * Copying, moving, deleting files
-  * SSH
+  * SSH and VNC
   * Permissions
-* Shell scripting
+* Shell scripting - BASH (2-3 sessions - TBC)
   * Chaining commands
   * Variables
-  * Capturing output
+  * Strings
+  * Arithmetic expressions
+  * Logic expressions
+  * Conditionals
   * Looping
   * Supplying arguments
+  * Capturing output and filtering
   * Parallelisation
   * Grid Engine 
 * Python
