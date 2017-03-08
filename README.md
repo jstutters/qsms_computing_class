@@ -4,7 +4,7 @@ Teaching material for the QS MS Centre computing course.
 
 The course aims to cover:
 
-* Basic command line use (1 session - 15/03/2017)
+* Basic command line use (1 session - 15/03/2017 - Foyer Seminar room ground floor RSH at 16h)
   * Navigating the filesystem
   * Opening files
   * Copying, moving, deleting files
