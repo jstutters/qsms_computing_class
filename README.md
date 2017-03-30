@@ -14,11 +14,15 @@ The course aims to cover:
 * Session 2 - 29/03/2017 - TBC at 16h  
   * SSH and VNC
   * Shell scripting - BASH
-    * Chaining commands
-    * Capturing output and filtering
+    * Introduction to BASH
+    * Basic chaining commands
+    * Strings
     * Variables
-  * Strings
+ <a href="">Material - Session 2 - VNC and SSH</a>
+ <a href="https://www.dropbox.com/s/dls1nf2bbuk2jwc/qsmsc-computing-2b.ppt?dl=0">Material - Session 2 - BASH</a>
+* Session 3 - 12/03/2017 - Foyer Seminar room ground floor RSH at 16h
   * Arithmetic expressions
+  * Capturing output and filtering
   * Logic expressions
   * Conditionals
   * Looping
