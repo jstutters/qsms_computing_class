@@ -16,7 +16,7 @@ The course aims to cover:
  * Permissions
 
 ### Slides
-[https://www.dropbox.com/s/0m6uec0o3usiofo/qsmsc-computing-1.pptx?dl=0](Material - Session 1)
+[Material - Session 1](https://www.dropbox.com/s/0m6uec0o3usiofo/qsmsc-computing-1.pptx?dl=0)
 
 ## Session 2
 ### When and where
@@ -31,7 +31,7 @@ The course aims to cover:
    * Variables
 
 ### Slides
- [https://www.dropbox.com/s/dls1nf2bbuk2jwc/qsmsc-computing-2b.ppt?dl=0"](Material - Session 2 - BASH)
+ [Material - Session 2 - BASH](https://www.dropbox.com/s/dls1nf2bbuk2jwc/qsmsc-computing-2b.ppt?dl=0)
 
 ## Session 3
 ### When and where
