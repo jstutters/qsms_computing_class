@@ -18,7 +18,8 @@ The course aims to cover:
     * Basic chaining commands
     * Strings
     * Variables
- <a href="">Material - Session 2 - VNC and SSH</a>
+ <br>
+ <a href="">Material - Session 2 - VNC and SSH</a><br>
  <a href="https://www.dropbox.com/s/dls1nf2bbuk2jwc/qsmsc-computing-2b.ppt?dl=0">Material - Session 2 - BASH</a>
 * Session 3 - 12/03/2017 - Foyer Seminar room ground floor RSH at 16h
   * Arithmetic expressions
